@@ -1,4 +1,4 @@
-import { NgbDateStruct } from '@ng-bootstrap/ng-bootstrap';
+
 export class Registration {
     public choicenumber: number;
     public enternumber: string;
